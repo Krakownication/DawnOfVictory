@@ -1,0 +1,294 @@
+{ 
+    "songs": [
+        {
+            "type": "audio",
+            "key": "music",
+            "urls": "assets/music/DoV01.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "music01",
+            "urls": "assets/music/DoV02.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "music02",
+            "urls": "assets/music/DoV03.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "music03",
+            "urls": "assets/music/DoV04.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "music04",
+            "urls": "assets/music/DoV05.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "music05",
+            "urls": "assets/music/DoV06.ogg",
+            "autoDecode": true
+        }
+    ],
+    "sounds": [
+
+        {
+            "type": "audio",
+            "key": "sfx-sword01",
+            "urls": "assets/sounds/sfx-sword01.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-sword02",
+            "urls": "assets/sounds/sfx-sword02.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-sword03",
+            "urls": "assets/sounds/sfx-sword03.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-sword04",
+            "urls": "assets/sounds/sfx-sword04.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-sword05",
+            "urls": "assets/sounds/sfx-sword05.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-sword06",
+            "urls": "assets/sounds/sfx-sword06.ogg",
+            "autoDecode": true
+        },
+        
+        {
+            "type": "audio",
+            "key": "sfx-bow01",
+            "urls": "assets/sounds/sfx-bow01.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-bow02",
+            "urls": "assets/sounds/sfx-bow02.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-bow03",
+            "urls": "assets/sounds/sfx-bow03.ogg",
+            "autoDecode": true
+        },
+
+        {
+            "type": "audio",
+            "key": "sfx-horn01",
+            "urls": "assets/sounds/sfx-horn01.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-horn02",
+            "urls": "assets/sounds/sfx-horn02.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-horn03",
+            "urls": "assets/sounds/sfx-horn03.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-horn04",
+            "urls": "assets/sounds/sfx-horn04.ogg",
+            "autoDecode": true
+        },
+
+        {
+            "type": "audio",
+            "key": "sfx-hit01",
+            "urls": "assets/sounds/sfx-hit01.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-hit02",
+            "urls": "assets/sounds/sfx-hit02.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-hit03",
+            "urls": "assets/sounds/sfx-hit03.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-hit04",
+            "urls": "assets/sounds/sfx-hit04.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-hit05",
+            "urls": "assets/sounds/sfx-hit05.ogg",
+            "autoDecode": true
+        },
+
+        {
+            "type": "audio",
+            "key": "sfx-miss01",
+            "urls": "assets/sounds/sfx-miss01.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-miss02",
+            "urls": "assets/sounds/sfx-miss02.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-miss03",
+            "urls": "assets/sounds/sfx-miss03.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-miss04",
+            "urls": "assets/sounds/sfx-miss04.ogg",
+            "autoDecode": true
+        },
+
+        {
+            "type": "audio",
+            "key": "sfx-death01",
+            "urls": "assets/sounds/sfx-death01.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-death02",
+            "urls": "assets/sounds/sfx-death02.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-death03",
+            "urls": "assets/sounds/sfx-death03.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-death04",
+            "urls": "assets/sounds/sfx-death04.ogg",
+            "autoDecode": true
+        },
+
+        {
+            "type": "audio",
+            "key": "sfx-surround01",
+            "urls": "assets/sounds/sfx-surround01.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-surround02",
+            "urls": "assets/sounds/sfx-surround02.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-surround03",
+            "urls": "assets/sounds/sfx-surround03.ogg",
+            "autoDecode": true
+        },
+
+
+
+
+        {
+            "type": "audio",
+            "key": "sfx-movement01",
+            "urls": "assets/sounds/sfx-movement01.ogg",
+            "autoDecode": true
+        },
+
+        {
+            "type": "audio",
+            "key": "sfx-movement01",
+            "urls": "assets/sounds/sfx-movement01.ogg",
+            "autoDecode": true
+        },
+
+        {
+            "type": "audio",
+            "key": "sfx-combat01",
+            "urls": "assets/sounds/sfx-combat01.ogg",
+            "autoDecode": true
+        },
+
+        {
+            "type": "audio",
+            "key": "sfx-surround01",
+            "urls": "assets/sounds/sfx-surround01.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-surround02",
+            "urls": "assets/sounds/sfx-surround02.ogg",
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sfx-surround03",
+            "urls": "assets/sounds/sfx-surround03.ogg",
+            "autoDecode": true
+        },
+
+        {
+            "type": "audio",
+            "key": "sfx-battlestart01",
+            "urls": "assets/sounds/sfx-battlestart01.ogg",
+            "autoDecode": true
+        }
+    ],
+    "menu": [
+        {
+            "type": "image",
+            "key": "smoke",
+            "url": "assets/smoke.png",
+            "overwrite": false
+        }
+    ],
+    "cards": [
+        {
+            
+        }    
+    ],
+    "game": [
+        {
+            "type": "image",
+            "key": "smoke",
+            "url": "assets/smoke.png",
+            "overwrite": false
+        }
+    ]
+}
